@@ -27,7 +27,6 @@ PS.如果你正在用 inoreader ，可以直接登录后，点击[好物·100个
 
 评分   |  作者 | 名称    | 备注 
 ----- | ----- | ------ | -----
-★★★★☆ | 傅国涌|[笔底波澜](http://blog.sina.com.cn/fuguoyong)|#
 ★★★★☆ | Yurii|[乱象，印迹](http://www.luanxiang.org/blog)|#
 ★★★★☆ | 刘未鹏|[Mind Hacks](http://mindhacks.cn)|#
 ★★★★☆ | 阮一峰|[阮一峰的网络日志](http://www.ruanyifeng.com/blog/)|#
