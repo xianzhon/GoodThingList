@@ -25,6 +25,7 @@ GoodThings 就是好物，在这里，我会在此陆续奉上好用之物，附
 - [好·字体清单](https://github.com/xianzhon/GoodThingList/blob/master/GoodFontList.md)
 - [好·博客主题清单](https://github.com/xianzhon/GoodThingList/blob/master/GoodJekyllBlogList.md)
 - [好·播客清单](https://github.com/xianzhon/GoodThingList/blob/master/GoodPodcastList.md)
+- [好·音乐清单](https://github.com/xianzhon/GoodThingList/blob/master/GoodMusicList.md)
 - 其他的陆续更新中，你可以一个个点开看
 
 ## Mac 使用技巧
